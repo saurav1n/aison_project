@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://sql11.freemysqlhosting.net:3306/sql11703293?allowPublicKeyRetrieval=true&useSSL=false
+    username: sql11703293
+    password: eFnvRtTlbQ
+
+  #JPA Settings
+  jpa.hibernate.ddl_auto: update
+
+
